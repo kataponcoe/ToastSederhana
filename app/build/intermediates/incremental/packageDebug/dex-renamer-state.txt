@@ -1,0 +1,7 @@
+#Sun Jul 16 09:12:06 WIB 2017
+base.0=/Users/Poncoe/Documents/AStudioProject/ToastSederhana/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5b4045a2560f4b5f134adcea6e55f2d0441f9dc5
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/Poncoe/Documents/AStudioProject/ToastSederhana/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_45c54410af2824d5245141b37f75e335eaabb8be/classes.dex
+base.1=/Users/Poncoe/Documents/AStudioProject/ToastSederhana/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_45c54410af2824d5245141b37f75e335eaabb8be
+file.0=/Users/Poncoe/Documents/AStudioProject/ToastSederhana/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5b4045a2560f4b5f134adcea6e55f2d0441f9dc5/classes.dex

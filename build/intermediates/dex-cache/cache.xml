@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Poncoe/Documents/AStudioProject/ToastSederhana/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0bbd75a5ed1f1ccb3e9bc0827aa61ad6dd8d9679">
+        <dex dex="/Users/Poncoe/Documents/AStudioProject/ToastSederhana/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_45c54410af2824d5245141b37f75e335eaabb8be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Poncoe/Documents/AStudioProject/ToastSederhana/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d258e0fa34b64b4bb811ca2921029eb0dfbef3cb">
+        <dex dex="/Users/Poncoe/Documents/AStudioProject/ToastSederhana/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5b4045a2560f4b5f134adcea6e55f2d0441f9dc5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/android-sdks/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/Poncoe/Documents/AStudioProject/ToastSederhana/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_bfd34bcfcc229be3927aff980bb63b6598b6ff66/classes.dex" />
+    </item>
+
+</items>
